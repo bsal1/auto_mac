@@ -5,6 +5,6 @@ while true;
 do
     printf "\r             < ' ' >" 
     sleep 0.3
-    printf "\r             > '_' <" 
+    printf "\r             > '_' <"  
     sleep 0.3  
 done
