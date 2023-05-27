@@ -1,9 +1,9 @@
 This repo is created to automate boaring stuffs.
 
 To run script :
-```sh
-Clone to your local machine.
 
+>Clone to your local machine.
+```sh
 chmod +x <filename.sh>
 
 ./<filename.sh>
