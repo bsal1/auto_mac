@@ -1,4 +1,4 @@
-This repo is created to automate boring stuffs.
+This repo is created to automate boring stuffs. < _Only tested in debian_ >
 
 To run script :
 
