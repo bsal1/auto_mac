@@ -1,4 +1,4 @@
-This repo is created to automate boaring stuffs.
+This repo is created to automate boring stuffs.
 
 To run script :
 
