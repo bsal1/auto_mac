@@ -9,7 +9,7 @@ do
     if [[ $b == "y" || $b == "Y" || $b == "yes" || $b == "Yes" || $b == "YES"  ]]
     then
         continue
-    else
+    else 
         exit 
     fi
 done
